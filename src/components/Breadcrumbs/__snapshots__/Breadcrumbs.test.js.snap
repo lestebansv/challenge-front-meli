@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breadcrumbs renders component "Breadcrumbs" with category = Computación 1`] = `
+<div>
+  <div
+    class="bread"
+  >
+    Computación &gt; 
+    <strong />
+  </div>
+</div>
+`;

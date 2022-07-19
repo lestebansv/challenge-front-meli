@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailProduct validate renders search item kindle 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <div
+      class="item_image"
+    >
+      <img
+        alt="good_quality_picture,good_quality_thumbnail,extended_warranty_eligible,immediate_payment,cart_eligible"
+        height="500"
+        src="http://http2.mlstatic.com/D_674706-MLA40690247901_022020-O.jpg"
+        width="348"
+      />
+    </div>
+    <div
+      class="info"
+    >
+      <div
+        class="condition"
+      >
+        New
+         - 
+        100
+         vendidos
+      </div>
+      <div
+        class="title"
+      >
+        E-reader  Kindle Paperwhite 10 Gen 8gb Azul Con Pantalla De 6  300ppp
+      </div>
+      <div
+        class="price"
+      >
+        <span>
+          $ 35,650
+        </span>
+      </div>
+      <button
+        class="button"
+      >
+        Comprar
+      </button>
+    </div>
+    <div
+      class="description"
+    >
+      <p
+        class="title_description"
+      >
+        Descripción del producto
+      </p>
+      <div
+        class="text_description"
+      >
+        Con este E-reader Kindle, podrás almacenar los libros que más te gustan y llevarlos a todos lados.
+ A diferencia de otros dispositivos digitales, los libros electrónicos tienen una tinta electrónica que nos permite leer con una calidad similar a la del papel, sin demasiada fatiga visual. Además, este tipo de pantalla consume menos energía, por lo tanto, la batería puede durar días. ¡Volá con tu imaginación donde sea que estés!
+
+Múltiples formatos
+Este dispositivo soporta una gran variedad de formatos de archivos, lo que te permitirá acceder a una mayor cantidad de textos.
+
+Cuida tu vista
+Este E-reader cuenta luz de lectura que se distribuye por la pantalla para no impactar directamente en tu vista. Esto te permitirá leer durante largos períodos de tiempo sin sentir cansancio en tus ojo.
+
+Accesibilidad y comodidad
+¿Te gusta hacer actividades mientras escuchás un libro? Ahora es posible, ya que este dispositivo es compatible con audiolibros. Esto no solo brinda comodidad para quienes prefieren escuchar los textos, sino que garantiza una mayor accesibilidad para personas ciegas o con disminución visual.
+      </div>
+    </div>
+  </div>
+</div>
+`;
