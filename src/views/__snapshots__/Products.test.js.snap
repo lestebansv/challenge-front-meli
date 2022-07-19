@@ -1,3 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Products renders 1`] = `<div />`;
+
+exports[`Products validate render view 1`] = `<div />`;

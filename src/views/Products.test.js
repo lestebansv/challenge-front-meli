@@ -1,5 +1,5 @@
-import { render } from "@testing-library/react";
-import Products from "./products";
+import { render } from '@testing-library/react';
+import Products from './products';
 
 jest.mock('react-router-dom', () => ({
     ...jest.requireActual('react-router-dom'),
@@ -14,13 +14,14 @@ jest.mock('react-router-dom', () => ({
     }
 }));
 
-describe("Products", () => {
+describe('Products', () => {
 
-    it('renders', async () => {
+    it('validate render view', async () => {
         const categories = ['Computación'];
 
         const { container } = render(<Products data={categories} />);
 
         expect(container).toMatchSnapshot();
     });
+    
 });

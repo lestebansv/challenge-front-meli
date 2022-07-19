@@ -11,4 +11,5 @@ describe("DescriptionProduct", () => {
 
         expect(container).toMatchSnapshot();
     });
+    
 });
